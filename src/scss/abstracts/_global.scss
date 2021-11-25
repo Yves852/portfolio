@@ -1,0 +1,12 @@
+@use "./variables";
+// Define style on selectors
+body {
+    background-color: variables.$main-color;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    background-color: variables.$second-color;
+}

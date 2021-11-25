@@ -1,0 +1,10 @@
+{
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded", // TODO chante to compressed
+            "extensionName": ".css",
+            "savePath": "/src/css/"
+        }
+    ],
+    "liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"]
+}
